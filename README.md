@@ -25,6 +25,7 @@ The TBG Magnific Magnifier **enables multi-step automatic upscaling** with very 
 ---
 
 ## Parameter Overview
+![TBG Magnific Magnifier Example](Node.png)  
 
 ### 🔹 **Fractality**
 
@@ -89,6 +90,7 @@ Reassemblance dynamically adapts to Redux/ControlNet inputs.
 - ⚠️ **Requires significantly more GPU memory** than standard steps.
 
 **Use with caution** if you're on limited VRAM. Consider disabling it or optimizing other parameters to save memory.
+![TBG Magnific Magnifier Example](wrappernode.png)  
 
 ---
 

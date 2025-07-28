@@ -106,4 +106,5 @@ An advanced generative system that “remembers” newly generated surroundings 
 This combination of technologies empowers the TBG Magnific Magnifier node to deliver high-quality, large-scale image generation and refinement workflows that maintain both detail and cohesion at massive resolutions — all while keeping the user experience smooth and accessible.
 
 The TBG ETUR Magnific Magnifier requires a Pro, Premium, or Unlimited membership. However, you can achieve the same results using the TBG Enhanced Upscaler and Refiner PRO with manual settings and a Free membership.
-**Note:** This node is now merged with the [ComfyUI-TBG-ETUR Enhanced Tiled Upscaler & Refiner Pro](https://github.com/Ltamann/ComfyUI-TBG-ETUR) project.
+
+**Note: This node is now merged with the [ComfyUI-TBG-ETUR Enhanced Tiled Upscaler & Refiner Pro](https://github.com/Ltamann/ComfyUI-TBG-ETUR) project.**

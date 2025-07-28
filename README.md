@@ -1,3 +1,4 @@
+![TBG Magnific Magnifier Example](TBG_magnific_upscalser_still_2.2.1.jpg)  
 # TBG Magnific Magnifier Node for ComfyUI
 
 The **TBG Magnific Magnifier** node is an advanced yet simple-to-use enhancement tool designed for tiled image generation and refinement within ComfyUI. It uses cutting-edge neuro-generative tile fusion and multi-path processing pipelines tailored for extreme resolution workflows — supporting images up to (but not limited to) 100 megapixels with high fidelity or high freedom.
